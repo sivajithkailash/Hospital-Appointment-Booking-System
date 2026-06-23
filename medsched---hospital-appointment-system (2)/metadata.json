@@ -1,0 +1,5 @@
+{
+  "name": "MedSched - Hospital Appointment System",
+  "description": "A comprehensive hospital appointment scheduling system with patient and admin dashboards, medical records, and token generation.",
+  "requestFramePermissions": []
+}
